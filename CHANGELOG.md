@@ -1,5 +1,5 @@
 ## Changelog
-- **0.2.0** (DD Feb 2024)
+- **v0.2.0** (DD Feb 2024)
   - feature: Added user specific leave history page for managed employees.
   - feature: Added release info page.
   - improvement: Changed AppBar action menu item display to dropdown.
