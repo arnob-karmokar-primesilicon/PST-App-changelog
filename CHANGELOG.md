@@ -1,5 +1,8 @@
 ## Changelog
-- **v0.2.0** (DD Feb 2024)
+- **v0.2.1** (5 Mar 2024)
+  - feature: Added Export Data Functionality (Admin).
+  - improvement: Made "Description" field mandatory while submitting a leave request"
+- **v0.2.0** (19 Feb 2024)
   - feature: Added user specific leave history page for managed employees.
   - feature: Added release info page.
   - feature: Check for app updates.
