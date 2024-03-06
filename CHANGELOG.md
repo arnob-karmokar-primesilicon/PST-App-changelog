@@ -1,4 +1,7 @@
 ## Changelog
+- **v0.2.2** (6 Mar 2024)
+  - feature: Added feature to add penalty leaves.
+  - fix: Fixed Email Templates.
 - **v0.2.1** (5 Mar 2024)
   - feature: Added Export Data Functionality (Admin).
   - improvement: Made "Description" field mandatory while submitting a leave request"
