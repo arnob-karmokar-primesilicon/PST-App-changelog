@@ -1,4 +1,7 @@
 ## Changelog
+- **v0.2.3** (8 Mar 2024)
+  - feature: Added feature to apply for personal hours.
+  - feature: Added personal hour history display page.
 - **v0.2.2** (6 Mar 2024)
   - feature: Added feature to add penalty leaves.
   - fix: Fixed Email Templates.
