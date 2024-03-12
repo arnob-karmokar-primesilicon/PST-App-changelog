@@ -1,4 +1,7 @@
 ## Changelog
+- **v0.3.1** (12 Mar 2024)
+  - improvement: added logout confirmation dialog.
+  - fix: minor improvements.
 - **v0.3.0** (12 Mar 2024)
   - improvement: Revamped homepage/dashboard design.
 - **v0.2.3** (8 Mar 2024)
