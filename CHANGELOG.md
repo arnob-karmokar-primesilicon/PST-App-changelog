@@ -1,4 +1,6 @@
 ## Changelog
+- **v0.3.0** (12 Mar 2024)
+  - improvement: Revamped homepage/dashboard design.
 - **v0.2.3** (8 Mar 2024)
   - feature: Added feature to apply for personal hours.
   - feature: Added personal hour history display page.
